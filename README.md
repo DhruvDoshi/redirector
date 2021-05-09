@@ -1,6 +1,5 @@
 # Personal Website
 ![GitHub release](https://img.shields.io/github/release/DhruvDoshi/DhruvDoshi.github.io.svg?style=popout-square)
-
 [![Website shields.io](https://img.shields.io/website-up-down-pink-red/http/shields.io.svg)](https://dhruvdoshi.github.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=popout-square)](https://opensource.org/licenses/MIT)
 [![Website-Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdhruvdoshi.github.io)](https://dhruvdoshi.github.io/)
